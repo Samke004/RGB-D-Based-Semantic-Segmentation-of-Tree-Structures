@@ -1,0 +1,8 @@
+@"
+*.pth
+*.pt
+*.tar.gz
+*.ckpt
+__pycache__/
+*.py[cod]
+"@ | Out-File -FilePath .gitignore -Encoding utf8
